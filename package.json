@@ -1,0 +1,9 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "This is the workspace for the development of all the documentation, guides, tutorial, etc for Redux using React application in JavaScript",
+  "main": "index.js",
+  "repository": "git@quantum_adrenaline_1.github.com:React-JS-Frontend-Avengers/redux-using-js-with-react.git",
+  "author": "quantum_adrenaline_1",
+  "license": "Apache License, Version 2.0"
+}
