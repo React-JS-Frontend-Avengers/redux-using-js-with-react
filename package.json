@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@quantum_adrenaline_1.github.com:React-JS-Frontend-Avengers/redux-using-js-with-react.git",
   "author": "quantum_adrenaline_1",
-  "license": "Apache License, Version 2.0"
+  "license": "Apache License, Version 2.0",
+  "dependencies": {
+    "vite": "^4.4.9"
+  }
 }
