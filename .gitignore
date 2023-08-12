@@ -1,0 +1,25 @@
+# Logs
+workspace/counter-application-with-class-component-redux-core/logs
+workspace/counter-application-with-class-component-redux-core/*.log
+workspace/counter-application-with-class-component-redux-core/npm-debug.log*
+workspace/counter-application-with-class-component-redux-core/yarn-debug.log*
+workspace/counter-application-with-class-component-redux-core/yarn-error.log*
+workspace/counter-application-with-class-component-redux-core/pnpm-debug.log*
+workspace/counter-application-with-class-component-redux-core/lerna-debug.log*
+
+node_modules
+workspace/counter-application-with-class-component-redux-core/node_modules
+workspace/counter-application-with-class-component-redux-core/dist
+workspace/counter-application-with-class-component-redux-core/dist-ssr
+workspace/counter-application-with-class-component-redux-core/*.local
+
+# Editor directories and files
+workspace/counter-application-with-class-component-redux-core/.vscode/*
+workspace/counter-application-with-class-component-redux-core/!.vscode/extensions.json
+workspace/counter-application-with-class-component-redux-core/.idea
+workspace/counter-application-with-class-component-redux-core/.DS_Store
+workspace/counter-application-with-class-component-redux-core/*.suo
+workspace/counter-application-with-class-component-redux-core/*.ntvs*
+workspace/counter-application-with-class-component-redux-core/*.njsproj
+workspace/counter-application-with-class-component-redux-core/*.sln
+workspace/counter-application-with-class-component-redux-core/*.sw?
